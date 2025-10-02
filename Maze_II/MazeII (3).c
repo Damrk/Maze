@@ -1,7 +1,7 @@
 /***********************************************************************
  * MazeII.c
  * Second addition of Maze - With Levels
- * Youssef Derouiche
+ * Denmrk
  * VERSION 1
  * ********************************************************************/
 #include <stdio.h>
